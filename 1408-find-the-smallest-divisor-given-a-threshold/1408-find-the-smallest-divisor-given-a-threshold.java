@@ -3,7 +3,7 @@ class Solution {
         long threshy = 0;
 
         for (int i = 0; i < nums.length; i++) {
-            threshy += (int) Math.ceil((double) nums[i] / divisor);
+             threshy += (nums[i] + divisor - 1) / divisor;
         }
 
         return threshy;
