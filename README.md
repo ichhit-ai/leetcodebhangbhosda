@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0410-split-array-largest-sum) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0410-split-array-largest-sum) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -23,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1675-magnetic-force-between-two-balls](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1675-magnetic-force-between-two-balls) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
