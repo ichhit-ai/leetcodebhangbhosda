@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0367-valid-perfect-square) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
