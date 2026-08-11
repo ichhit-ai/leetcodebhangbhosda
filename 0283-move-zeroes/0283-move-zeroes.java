@@ -7,31 +7,20 @@ class Solution {
 
     public void moveZeroes(int[] nums) {
         int left = 0;
-        int right = 1;
-
-        while (left < nums.length && right < nums.length) {
-
-            if (left >= right) {
-                right = left + 1;
-            }
-
-            if (left < nums.length && nums[left] != 0) {
-                left++;
-                continue;
-            }
-
-            if (right < nums.length && nums[right] == 0) {
+        int right = 0;
+        while(right<nums.length){
+            if(nums[right]==0){
                 right++;
-                continue;
+                
             }
-
-            if (left < nums.length && right < nums.length
-                    && nums[left] == 0 && nums[right] != 0) {
-
-                swap(nums, left, right);
+            if(right<nums.length && nums[right]!=0){
+                swap(nums,left,right);
                 left++;
                 right++;
             }
+            
         }
+
+    
     }
 }
