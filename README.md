@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1046-max-consecutive-ones-iii](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1046-max-consecutive-ones-iii](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0410-split-array-largest-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1046-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -75,5 +78,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
