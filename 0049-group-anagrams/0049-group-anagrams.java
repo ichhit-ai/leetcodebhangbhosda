@@ -1,11 +1,10 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
         Map<String, List<String>> map = new HashMap<>();
-
-        for (String s : strs) {
+        for (String str : strs) {
             int[] count = new int[26];
-            for (char c : s.toCharArray()) {
-                count[c - 'a']++;
+            for (char c : str.toCharArray()) {
+                count[c - 'a']++;   // O(k), no sorting
             }
 
             StringBuilder sb = new StringBuilder();
@@ -14,9 +13,9 @@ class Solution {
             }
             String key = sb.toString();
 
-            map.computeIfAbsent(key, x -> new ArrayList<>()).add(s);
+            map.putIfAbsent(key, new ArrayList<>());
+            map.get(key).add(str);
         }
-
         return new ArrayList<>(map.values());
     }
 }
