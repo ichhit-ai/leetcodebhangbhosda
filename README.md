@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0410-split-array-largest-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0643-maximum-average-subarray-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0217-contains-duplicate) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1675-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
@@ -99,5 +101,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0217-contains-duplicate) |
 | [0940-fruit-into-baskets](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
