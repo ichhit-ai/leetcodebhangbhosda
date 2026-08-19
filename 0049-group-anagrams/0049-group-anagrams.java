@@ -1,21 +1,22 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
+        //mei yaha pe map ko construct krungi string -> list of anagrams
         Map<String, List<String>> map = new HashMap<>();
-        for (String str : strs) {
-            int[] count = new int[26];
-            for (char c : str.toCharArray()) {
-                count[c - 'a']++;   // O(k), no sorting
-            }
+        for(String str : strs){
+            //hm convert krenge ge string ko character array ke andr
+            char[] chars = str.toCharArray();
 
-            StringBuilder sb = new StringBuilder();
-            for (int i = 0; i < 26; i++) {
-                sb.append(count[i]).append('#');
-            }
-            String key = sb.toString();
+            //sort krenge array ko
+            Arrays.sort(chars);
+            //convert the sorted characters back to string 
+            String key = new String(chars);
 
+            //agar hmare key present nahi hai  create a new list
             map.putIfAbsent(key, new ArrayList<>());
+
             map.get(key).add(str);
         }
+        //return aLL Groups
         return new ArrayList<>(map.values());
     }
 }
