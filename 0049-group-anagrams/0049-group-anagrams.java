@@ -1,41 +1,25 @@
 class Solution {
-    // same idea as your anagram(), just array-based instead of HashMap-based
-    public boolean anagram(int[] countS, int[] countT) {
-        for (int i = 0; i < 26; i++) {
-            if (countS[i] != countT[i]) {
-                return false;
-            }
-        }
-        return true;
-    }
-
     public List<List<String>> groupAnagrams(String[] strs) {
-        List<List<String>> Anagramlist = new ArrayList<>();
-        int n = strs.length;
+        Map<String, List<String>> map = new HashMap<>();
 
-        // precompute letter-count signature for every string ONCE
-        int[][] counts = new int[n][26];
-        for (int i = 0; i < n; i++) {
-            for (char c : strs[i].toCharArray()) {
-                counts[i][c - 'a']++;
+        for (String s : strs) {
+            // build a signature: count of each letter, encoded as a string
+            int[] count = new int[26];
+            for (char c : s.toCharArray()) {
+                count[c - 'a']++;
             }
+
+            // turn the count array into a unique key, e.g. "1#0#0#2#0..." 
+            StringBuilder sb = new StringBuilder();
+            for (int i = 0; i < 26; i++) {
+                sb.append(count[i]).append('#');
+            }
+            String key = sb.toString();
+
+            // group strings under the same signature
+            map.computeIfAbsent(key, x -> new ArrayList<>()).add(s);
         }
 
-        boolean[] visited = new boolean[n]; // replaces group.contains() scan
-
-        for (int i = 0; i < n; i++) {
-            if (visited[i]) {
-                continue;
-            }
-            List<String> group = new ArrayList<>();
-            for (int j = i; j < n; j++) {
-                if (!visited[j] && anagram(counts[i], counts[j])) {
-                    group.add(strs[j]);
-                    visited[j] = true;
-                }
-            }
-            Anagramlist.add(group);
-        }
-        return Anagramlist;
+        return new ArrayList<>(map.values());
     }
 }
