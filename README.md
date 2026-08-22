@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1675-magnetic-force-between-two-balls) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 ## Binary Search
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0387-first-unique-character-in-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0940-fruit-into-baskets) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Queue
 |  |
 | ------- |
@@ -134,8 +137,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0387-first-unique-character-in-a-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
