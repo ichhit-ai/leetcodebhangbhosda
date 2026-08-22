@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1675-magnetic-force-between-two-balls) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0940-fruit-into-baskets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Queue
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0387-first-unique-character-in-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Union-Find
 |  |
 | ------- |
