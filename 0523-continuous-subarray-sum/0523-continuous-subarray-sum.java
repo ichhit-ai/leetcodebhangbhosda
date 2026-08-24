@@ -9,7 +9,6 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
 
             prefix[i + 1] = prefix[i] + nums[i];
-
             int rem = prefix[i + 1] % k;
 
             if (map.containsKey(rem)) {
