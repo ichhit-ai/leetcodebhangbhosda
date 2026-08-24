@@ -18,7 +18,6 @@ class Solution {
 
             map.put(prefix, map.getOrDefault(prefix, 0) + 1);
         }
-
         return count;
     }
 }
