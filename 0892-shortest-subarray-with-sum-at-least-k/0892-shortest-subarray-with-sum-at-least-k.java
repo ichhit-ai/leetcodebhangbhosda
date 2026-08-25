@@ -5,7 +5,6 @@ class Solution {
         map.put(0L, 0);
 
         int min = nums.length + 1;
-
         for (int i = 0; i < nums.length; i++) {
             prefix[i + 1] = prefix[i] + nums[i];
 
@@ -39,7 +38,6 @@ class Solution {
                 }
             }
         }
-
         if (min == nums.length + 1) {
             return -1;
         }
