@@ -20,19 +20,15 @@ class Solution {
 
         for (int i = 0; i < nums.length; i++) {
             prefix[i + 1] = (prefix[i] + nums[i]) % p;
-
             long needed = (prefix[i + 1] - remaining + p) % p;
-
             if (map.containsKey(needed)) {
                 min = Math.min(
                     min,
                     i + 1 - map.get(needed)
                 );
             }
-
             map.put(prefix[i + 1], i + 1);
         }
-
         return min == nums.length ? -1 : min;
     }
 }
