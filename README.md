@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0219-contains-duplicate-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0042-trapping-rain-water) |
+| [0198-house-robber](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
