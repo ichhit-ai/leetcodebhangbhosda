@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0875-longest-mountain-in-array](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0875-longest-mountain-in-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0966-binary-subarrays-with-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0410-split-array-largest-sum) |
+| [0875-longest-mountain-in-array](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0875-longest-mountain-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0633-sum-of-square-numbers) |
+| [0875-longest-mountain-in-array](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0875-longest-mountain-in-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Stack
 |  |
@@ -223,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
