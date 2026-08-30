@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0633-sum-of-square-numbers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0387-first-unique-character-in-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1786-count-the-number-of-consistent-strings) |
