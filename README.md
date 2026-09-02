@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0874-backspace-string-compare) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0387-first-unique-character-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0874-backspace-string-compare) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1321-get-equal-substrings-within-budget) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1786-count-the-number-of-consistent-strings) |
