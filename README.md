@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0633-sum-of-square-numbers) |
+| [0874-backspace-string-compare](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0874-backspace-string-compare) |
 | [0875-longest-mountain-in-array](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0875-longest-mountain-in-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Stack
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0387-first-unique-character-in-a-string) |
+| [0874-backspace-string-compare](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0874-backspace-string-compare) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1321-get-equal-substrings-within-budget) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -282,4 +285,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
