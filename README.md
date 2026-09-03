@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0198-house-robber) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0633-sum-of-square-numbers) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0874-backspace-string-compare) |
