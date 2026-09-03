@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0303-range-sum-query-immutable) |
 ## Pigeonhole Principle
 |  |
