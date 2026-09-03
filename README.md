@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0682-baseball-game) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0290-word-pattern) |
