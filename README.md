@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0540-single-element-in-a-sorted-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0874-backspace-string-compare) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0739-daily-temperatures) |
 ## String
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0560-subarray-sum-equals-k) |
