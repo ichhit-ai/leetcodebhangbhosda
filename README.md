@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1675-magnetic-force-between-two-balls) |
 | [1694-make-sum-divisible-by-p](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0387-first-unique-character-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Counting
 |  |
 | ------- |
@@ -302,4 +305,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0874-backspace-string-compare) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
