@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0347-top-k-frequent-elements) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0860-design-circular-queue) |
@@ -290,11 +293,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0347-top-k-frequent-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Enumeration
 |  |
@@ -331,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0860-design-circular-queue) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
