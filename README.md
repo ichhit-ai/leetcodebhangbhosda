@@ -335,9 +335,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0206-reverse-linked-list) |
 | [0860-design-circular-queue](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0860-design-circular-queue) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0239-sliding-window-maximum) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
