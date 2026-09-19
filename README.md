@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0206-reverse-linked-list) |
 | [0860-design-circular-queue](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
