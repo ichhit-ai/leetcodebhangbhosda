@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0874-backspace-string-compare) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/2195-time-needed-to-buy-tickets) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Data Stream
 |  |
 | ------- |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
