@@ -1,11 +1,13 @@
 
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
+         //just maintain a just prev pointer to slow and move them one per iteration same wow
         ListNode fast = head;
         ListNode slow = head;
         ListNode dummy = new ListNode(0);
         dummy.next = head;
-        //just maintain a just prev pointer to slow and move them one per iteration same wow
+        //include this edgecase kinda as well tooo fucking ruined my submission rate kinda 
+       
         if(head.next == null){
             return null;
         }
