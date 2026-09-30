@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0326-power-of-three](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0633-sum-of-square-numbers) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1013-fibonacci-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
