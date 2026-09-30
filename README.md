@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0410-split-array-largest-sum) |
 | [0875-longest-mountain-in-array](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0875-longest-mountain-in-array) |
+| [1013-fibonacci-number](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0633-sum-of-square-numbers) |
+| [1013-fibonacci-number](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1013-fibonacci-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -400,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0005-longest-palindromic-substring) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
