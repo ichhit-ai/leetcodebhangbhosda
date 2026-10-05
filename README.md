@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0051-n-queens) |
 | [0128-longest-consecutive-sequence](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -411,4 +412,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
