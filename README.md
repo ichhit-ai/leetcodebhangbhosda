@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0966-binary-subarrays-with-sum) |
+| [1014-k-closest-points-to-origin](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1046-max-consecutive-ones-iii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0349-intersection-of-two-arrays) |
+| [1014-k-closest-points-to-origin](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1014-k-closest-points-to-origin) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1675-magnetic-force-between-two-balls) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Dynamic Programming
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1014-k-closest-points-to-origin](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1127-last-stone-weight) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Monotonic Queue
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -356,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1014-k-closest-points-to-origin) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -445,4 +451,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1014-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
