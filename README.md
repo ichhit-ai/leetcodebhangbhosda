@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/2195-time-needed-to-buy-tickets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1127-last-stone-weight](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1127-last-stone-weight) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/2195-time-needed-to-buy-tickets) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Data Stream
 |  |
 | ------- |
