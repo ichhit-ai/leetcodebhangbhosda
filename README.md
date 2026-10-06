@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1675-magnetic-force-between-two-balls) |
 | [1694-make-sum-divisible-by-p](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1694-make-sum-divisible-by-p) |
+| [1762-furthest-building-you-can-reach](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1762-furthest-building-you-can-reach) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0410-split-array-largest-sum) |
 | [0649-dota2-senate](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0649-dota2-senate) |
+| [1762-furthest-building-you-can-reach](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1762-furthest-building-you-can-reach) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1014-k-closest-points-to-origin](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1127-last-stone-weight) |
+| [1762-furthest-building-you-can-reach](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1762-furthest-building-you-can-reach) |
 | [1955-seat-reservation-manager](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1955-seat-reservation-manager) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Monotonic Queue
