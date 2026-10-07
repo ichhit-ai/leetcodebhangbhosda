@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0349-intersection-of-two-arrays) |
 | [1014-k-closest-points-to-origin](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1014-k-closest-points-to-origin) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0633-sum-of-square-numbers) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0860-design-circular-queue](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0860-design-circular-queue) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0969-number-of-recent-calls) |
 ## Linked List
