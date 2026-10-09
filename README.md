@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0860-design-circular-queue) |
 | [0875-longest-mountain-in-array](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0875-longest-mountain-in-array) |
+| [0890-lemonade-change](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0940-fruit-into-baskets) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0410-split-array-largest-sum) |
 | [0649-dota2-senate](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0649-dota2-senate) |
+| [0890-lemonade-change](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0890-lemonade-change) |
 | [1762-furthest-building-you-can-reach](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1762-furthest-building-you-can-reach) |
 ## Prefix Sum
 |  |
