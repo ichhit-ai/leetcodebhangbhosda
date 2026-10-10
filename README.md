@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1762-furthest-building-you-can-reach) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1829-maximum-units-on-a-truck](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1829-maximum-units-on-a-truck) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2195-time-needed-to-buy-tickets](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/2195-time-needed-to-buy-tickets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0455-assign-cookies) |
 | [1014-k-closest-points-to-origin](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1014-k-closest-points-to-origin) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1675-magnetic-force-between-two-balls) |
+| [1829-maximum-units-on-a-truck](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1829-maximum-units-on-a-truck) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Dynamic Programming
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0890-lemonade-change) |
 | [1762-furthest-building-you-can-reach](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1762-furthest-building-you-can-reach) |
+| [1829-maximum-units-on-a-truck](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1829-maximum-units-on-a-truck) |
 ## Prefix Sum
 |  |
 | ------- |
