@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0917-boats-to-save-people) |
+| [1304-longest-happy-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1304-longest-happy-string) |
 | [1762-furthest-building-you-can-reach](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1762-furthest-building-you-can-reach) |
 | [1829-maximum-units-on-a-truck](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1829-maximum-units-on-a-truck) |
 ## Prefix Sum
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1304-longest-happy-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1304-longest-happy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1321-get-equal-substrings-within-budget) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1014-k-closest-points-to-origin](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1127-last-stone-weight) |
+| [1304-longest-happy-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1304-longest-happy-string) |
 | [1762-furthest-building-you-can-reach](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1762-furthest-building-you-can-reach) |
 | [1955-seat-reservation-manager](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1955-seat-reservation-manager) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/2692-take-gifts-from-the-richest-pile) |
