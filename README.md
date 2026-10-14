@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0649-dota2-senate) |
+| [0768-partition-labels](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0917-boats-to-save-people) |
 | [1762-furthest-building-you-can-reach](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1762-furthest-building-you-can-reach) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0633-sum-of-square-numbers) |
+| [0768-partition-labels](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0874-backspace-string-compare) |
 | [0875-longest-mountain-in-array](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0908-middle-of-the-linked-list) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0649-dota2-senate) |
+| [0768-partition-labels](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1321-get-equal-substrings-within-budget) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0560-subarray-sum-equals-k) |
+| [0768-partition-labels](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0768-partition-labels) |
 | [0940-fruit-into-baskets](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ichhit-ai/leetcodebhangbhosda/tree/master/1016-subarray-sums-divisible-by-k) |
